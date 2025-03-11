@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>🌱 I’m currently learning CS50's Introduction to Computer Science<br><br>
+<br>🌱hello<br><br>
 
 
 ## 🌐 Socials:
