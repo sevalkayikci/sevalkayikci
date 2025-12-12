@@ -1,11 +1,11 @@
 <h1 align="center">Hello👋, I'm Seval</h1>
-<h3 align="center">A passionate Software Engineer from Cyprus</h3>
+<h3 align="center">A Software Engineer from Cyprus</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sevalkayikci" alt="sevalkayikci" /></a> </p>
 
-- 🔭 I’m currently working on **Cafe Stock Management**
+- 🔭 I’m currently working on **Island of Stability with Machine Learning!**
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently doing my **Masters Degree in Computer Engineering!**
 
 - 📫 How to reach me **sevalkayikci@gmil.com**
 
